@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Morais</h1>
 <h3 align="center">A passionate developer, currently studying at Epitech Marseille</h3>
 
-- 🔭 I’m currently working on [FrenchFounders](https://www.frenchfounders.com/)
-
 - 📫 How to reach me **gabrielmorais1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
